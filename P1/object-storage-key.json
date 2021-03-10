@@ -1,0 +1,13 @@
+{
+  "apikey": "ab3pyhkRujoTN7aHoMgGta8n6F75UKPiSGuktGD2LfmR",
+  "cos_hmac_keys": {
+    "access_key_id": "089738dec471456eb2c601408d7471a5",
+    "secret_access_key": "652b842fa86a3fb762991ee4f986ee6a45f8beff2198e127"
+  },
+  "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
+  "iam_apikey_description": "Auto-generated for key 089738de-c471-456e-b2c6-01408d7471a5",
+  "iam_apikey_name": "linden",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/04bbd0e59f3f42558e133898b9441ae4::serviceid:ServiceId-07ebf08f-1a7d-45c8-b084-f55b0338e055",
+  "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/04bbd0e59f3f42558e133898b9441ae4:73614cf1-a848-4faa-b9df-24335a2e6f7a::"
+}
